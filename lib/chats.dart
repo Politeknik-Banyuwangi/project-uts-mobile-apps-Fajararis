@@ -23,7 +23,7 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Indah Dwi',
+                'Ayang',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
