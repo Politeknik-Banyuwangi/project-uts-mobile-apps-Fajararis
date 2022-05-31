@@ -6,7 +6,7 @@ class Chats extends StatelessWidget {
   Widget getChats(title, subTitle) {
     return ListTile(
       leading: CircleAvatar(
-        backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+        backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
         radius: 30,
       ),
       title: Text(
