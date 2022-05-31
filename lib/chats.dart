@@ -27,14 +27,7 @@ class Chats extends StatelessWidget {
         },
         child: ListView(
           children: [
-            SizedBox(
-              height: 10,
-            ),
-            ListTile(),
-            SizedBox(
-              height: 10,
-            ),
-            getChats("Sasuke", "Just now"),
+            getChats("Ayang", "Selamat pagi :)"),
             getChats("Ronaldo", "Today, 2:8 pm"),
             getChats("Moh salah", "6 minutes ago"),
             getChats("Rossi", "25 minutes ago"),
