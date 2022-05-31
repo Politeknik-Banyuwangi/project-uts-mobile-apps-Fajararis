@@ -25,7 +25,7 @@ class Calls extends StatelessWidget {
             callPhone("Sayang", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/qvGH3jdF/08.jpg")),
             callPhone("Clara", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/W1ytQNdj/10.jpg")),
             callPhone("Ayang", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg")),
-            callPhone("Sayang", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/1RKdM4dg/15.jpg")),
+            callPhone("Sayang", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/qvGH3jdF/08.jpg")),
             callPhone("Cynthia", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/wjVW9rhw/IMG-20220531-142605.jpg")),
             callPhone("Ibuk", Icons.call_received, Colors.green, "Hari ini 20.21", NetworkImage("https://i.postimg.cc/qvGH3jdF/08.jpg")),
           ],
