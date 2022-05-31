@@ -3,6 +3,17 @@ import 'package:flutter/material.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
+  Widget getContainer(text) {
+    return Container(
+      padding: EdgeInsets.only(left: 17, top: 7),
+      color: Colors.black12,
+      height: 35,
+      child: Text(
+        text,
+        style: TextStyle(color: Colors.grey.shade600),
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
