@@ -63,6 +63,420 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text('05.10'),
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Ayang',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Selamat Pagi :)'),
+                ],
+              ),
+              trailing: Text('05.10'),
+            ),
           ],
         ),
       ),
