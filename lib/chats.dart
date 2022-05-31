@@ -35,10 +35,10 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('Bagaimana kabar Anda?'),
+                  Text('Selamat Pagi :)'),
                 ],
               ),
-              trailing: Text('18.00'),
+              trailing: Text('05.10'),
             ),
           ],
         ),
