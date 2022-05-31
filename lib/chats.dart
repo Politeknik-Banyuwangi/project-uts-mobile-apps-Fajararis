@@ -3,19 +3,6 @@ import 'package:flutter/material.dart';
 
 class Chats extends StatelessWidget {
   const Chats({Key? key}) : super(key: key);
-  Widget getChats(title, subTitle) {
-    return ListTile(
-      leading: CircleAvatar(
-        backgroundImage: NetworkImage("https://i.postimg.cc/YCH7Q2xS/02.jpg"),
-        radius: 30,
-      ),
-      title: Text(
-        title,
-        style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-      ),
-      subtitle: Text(subTitle),
-    );
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,28 +14,31 @@ class Chats extends StatelessWidget {
         },
         child: ListView(
           children: [
-            getChats("Ayang", "Selamat pagi :)"),
-            getChats("Cynthia", "Selamat pagi :)"),
-            getChats("Fuput", "Selamat pagi :)"),
-            getChats("Clara", "Selamat pagi :)"),
-            getChats("Yurida", "Selamat pagi :)"),
-            getChats("Yasfina", "Selamat pagi :)"),
-            getChats("Galuh", "Selamat pagi :)"),
-            getChats("Anggi", "Selamat pagi :)"),
-            getChats("Arnis", "Selamat pagi :)"),
-            getChats("Wulan", "Selamat pagi :)"),
-            getChats("Laily", "Selamat pagi :)"),
-            getChats("Nanda", "Selamat pagi :)"),
-            getChats("Marita", "Selamat pagi :)"),
-            getChats("Safira", "Selamat pagi :)"),
-            getChats("Adelina", "Selamat pagi :)"),
-            getChats("Intan", "Selamat pagi :)"),
-            getChats("Vidia", "Selamat pagi :)"),
-            getChats("Amalia", "Selamat pagi :)"),
-            getChats("Adellita", "Selamat pagi :)"),
-            getChats("Putri", "Selamat pagi :)"),
             SizedBox(
               height: 10,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/QNW9bbPP/nail-art-lucu-dari-bunga-bunga-kering-yang-terlihat-manja-Mye-KMRr-W1k.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Indah Dwi',
+                style: TextStyle(fontWeight: FontWeight.bold),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.done_all_rounded,
+                    color: Colors.blue,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text('Bagaimana kabar Anda?'),
+                ],
+              ),
+              trailing: Text('18.00'),
             ),
           ],
         ),
